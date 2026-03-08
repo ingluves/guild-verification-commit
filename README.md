@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-08T15:36:47.296Z
-Commit: Correct typo in configuration file
+Timestamp: 2026-03-08T15:36:55.301Z
+Commit: Add multi-language support
